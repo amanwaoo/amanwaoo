@@ -16,14 +16,13 @@
 ---
 
 ### :man_technologist: About Me :
-I am a machine learning and data science enthusiast.
-- :telescope: I’m currently a 2nd year master's student at NC State University.
+- :telescope: Second-year master's student at NC State University, specializing in Machine Learning and Data Science.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Currently employed as a Research Assistant at Sozzani Lab NCSU, concentrating on leveraging ML models to improve the accuracy of gene expression data predictions.
 
-- :zap: In my free time, I solve problems on LeetCode and read tech articles.
+- :zap: Outside of academic and research commitments, I dedicate my free time to reading tech articles and honing my skills.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aman-waoo/)
+- :mailbox: Reach me on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aman-waoo/)
 
 ---
 
