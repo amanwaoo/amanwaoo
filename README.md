@@ -16,9 +16,9 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: Second-year master's student at NC State University, specializing in Computer Vision, Machine Learning and Data Science.
+- :telescope: Graduated with a Master's Degree from NC State University, specializing in Computer Vision, Machine Learning and Data Science.
 
-- :seedling: Currently employed as a ML Research Intern at Sozzani Lab NCSU under Plant Sciences Initiative (PSI), concentrating on leveraging ML models to improve the accuracy of gene expression data predictions.
+- :seedling: Currently employed as a Machine Learning Research Associate at Sozzani Lab NCSU under Plant Sciences Initiative (PSI), concentrating on leveraging ML models to improve the accuracy of gene expression data predictions.
 
 - :zap: Outside of academic and research commitments, I dedicate my free time to reading tech articles and honing my skills.
 
